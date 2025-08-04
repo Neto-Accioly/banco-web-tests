@@ -22,6 +22,7 @@
   "homepage": "https://github.com/Neto-Accioly/banco-web-tests#readme",
   "description": "",
   "devDependencies": {
-    "cypress": "^14.5.3"
+    "cypress": "^14.5.3",
+    "cypress-mochawesome-reporter": "^4.0.0"
   }
 }
